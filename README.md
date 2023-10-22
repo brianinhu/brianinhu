@@ -17,17 +17,18 @@
 
 <div align="center">
    <img width="60%" src="https://skillicons.dev/icons?i=angular,nodejs,spring,html,css,tailwind,bootstrap&theme=light">
-   
-   <img width="34%" src="https://skillicons.dev/icons?i=git,jquery,figma,md&theme=light">
+</div>
+<div align="center">
+<img width="34%" src="https://skillicons.dev/icons?i=git,jquery,figma,md&theme=light">
 </div>
 
 ## 📂 Databases
 
-<div style="display: flex; aling-items: center; justify-content: center; gap: 13px;">
-   <img width="7.5%" src="./icons/Oracle-Light.svg">
-   <img width="7.5%" src="./icons/MySQL-Light.svg">
-   <img width="7.5%" src="./icons/Sqlserver-Light.svg">
-   <img width="7.5%" src="./icons/SQLite.svg">
+<div align="center">
+    <img width="7.5%" src="./icons/Oracle-Light.svg">&nbsp;&nbsp;
+    <img width="7.5%" src="./icons/MySQL-Light.svg">&nbsp;&nbsp;
+    <img width="7.5%" src="./icons/Sqlserver-Light.svg">&nbsp;&nbsp;
+    <img width="7.5%" src="./icons/SQLite.svg">
 </div>
 
 ## 🚀 Currently Learning
@@ -40,7 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brianinhu&show_icons=true&theme=dark#gh-dark-mode-onlyt"/>
-  <img  style="width: 36.205%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianinhu&layout=compact&theme=dark#gh-dark-mode-onlyt"/>
+  <img  style="width: 35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianinhu&layout=compact&theme=dark#gh-dark-mode-onlyt"/>
 </div>
 
 ---
@@ -52,8 +53,6 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=brianinhu&margin-w=12"/>
-
----
 
 ## Contact me 📫
 
