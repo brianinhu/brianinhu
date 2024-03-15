@@ -19,7 +19,7 @@
    <img width="60%" src="https://skillicons.dev/icons?i=angular,nodejs,spring,html,css,tailwind,bootstrap&theme=light">
 </div>
 <div align="center">
-<img width="34%" src="https://skillicons.dev/icons?i=git,jquery,figma,md&theme=light">
+<img width="42%" src="https://skillicons.dev/icons?i=git,jquery,figma,md,django&theme=light">
 </div>
 
 ## 📂 Databases
@@ -34,7 +34,7 @@
 ## 🚀 Currently Learning
 
 <div align="center">
-   <img width="34%" src="https://skillicons.dev/icons?i=django,react,astro,docker&theme=light">
+   <img width="7.5%" src="https://skillicons.dev/icons?i=php&theme=light">
 </div>
 
 ## 🏆 My Github Stats <img align="right" src="https://komarev.com/ghpvc/?username=brianinhu&style=for-the-badge"> 
