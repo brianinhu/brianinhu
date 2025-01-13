@@ -1,38 +1,38 @@
 ## 👨‍💻 About me
 
-- 👨‍🏫 I'm a Systems Engineering student at [National Technological University of South Lima](https://www.untels.edu.pe/)
+- 👨‍🏫 I'm a Systems Engineering student at [Universidad Nacional Tecnológica de Lima Sur](https://www.untels.edu.pe/)
 - 👨‍💻 Passionate about coding since 2021
-- ❤️ I love Java because it was my first language
-- 🎯 I’m looking to collaborate on any open source project
+- ❤️ I love Java (and Apache NetBeans) because it was my first programming language
+- 🎯 I’m looking to collaborate on any open source project!
 
 ## 🌐 Languages
 
 <div align="center">
-   <img width="49%" src="https://skillicons.dev/icons?i=java,cpp,js,ts,py,r&theme=light">
+   <img width="56%" src="https://skillicons.dev/icons?i=java,cpp,js,ts,py,r,php&theme=light">
 </div>
 
 ## 🛠️ Frameworks/Tools
 
 <div align="center">
-   <img width="60%" src="https://skillicons.dev/icons?i=angular,nodejs,spring,html,css,tailwind,bootstrap&theme=light">
+   <img width="56%" src="https://skillicons.dev/icons?i=angular,nodejs,spring,html,css,tailwind,bootstrap&theme=light">
 </div>
 <div align="center">
-<img width="42%" src="https://skillicons.dev/icons?i=git,jquery,figma,md,django&theme=light">
+<img width="56%" src="https://skillicons.dev/icons?i=git,jquery,figma,md,django,astro,linux&theme=light">
 </div>
 
 ## 📂 Databases
 
 <div align="center">
-    <img width="7.5%" src="./icons/Oracle-Light.svg">&nbsp;&nbsp;
-    <img width="7.5%" src="./icons/MySQL-Light.svg">&nbsp;&nbsp;
-    <img width="7.5%" src="./icons/Sqlserver-Light.svg">&nbsp;&nbsp;
-    <img width="7.5%" src="./icons/SQLite.svg">
+    <img width="7%" src="./icons/Oracle-Light.svg">&nbsp;&nbsp;
+    <img width="7%" src="./icons/MySQL-Light.svg">&nbsp;&nbsp;
+    <img width="7%" src="./icons/Sqlserver-Light.svg">&nbsp;&nbsp;
+    <img width="7%" src="./icons/SQLite.svg">
 </div>
 
 ## 🚀 Currently Learning
 
 <div align="center">
-   <img width="7.5%" src="https://skillicons.dev/icons?i=php&theme=light">
+   <img width="23.5%" src="https://skillicons.dev/icons?i=react,mongodb,docker&theme=light">
 </div>
 
 ## 🏆 My Github Stats <img align="right" src="https://komarev.com/ghpvc/?username=brianinhu&style=for-the-badge"> 
